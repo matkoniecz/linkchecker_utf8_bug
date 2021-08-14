@@ -1,0 +1,1 @@
+for https://github.com/linkchecker/linkchecker/issues/554
